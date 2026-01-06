@@ -1,5 +1,3 @@
-# digitalseva
-https://maps.app.goo.gl/TnZTPxhQtfXsGW3Y7 make a website for Digital Seva
 <!DOCTYPE html>
 <html lang="en">
 <head>
